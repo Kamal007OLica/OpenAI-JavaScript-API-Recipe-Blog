@@ -1,6 +1,8 @@
 # OpenAI-JavaScript-API-Recipe-Blog
  building recipe blog generator using API’s OpenAI Node.js library
 
+ Credits: Documenting Learning from [Codecademy](https://www.codecademy.com/)
+
 
 <h2>Few-Shot Prompting with Single Prompt </h2>  
 
