@@ -1,10 +1,7 @@
 # OpenAI-JavaScript-API-Recipe-Blog
- building recipe blog generator using API’s OpenAI Node.js library
+ Building recipe blog generator using API’s OpenAI Node.js library
 
  ![image](https://github.com/user-attachments/assets/1b8ed5e1-0e86-46db-b02f-a018b193a15b)
-
-
- Credits: Documenting Learning from [Codecademy](https://www.codecademy.com/)
 
 
 <h2>Few-Shot Prompting with Single Prompt </h2>  
@@ -50,3 +47,5 @@ const response = await client.chat.completions.create({
 
 response.choices[0].message.content
 ```
+
+ Credits: Documenting Learning from [Codecademy](https://www.codecademy.com/)
